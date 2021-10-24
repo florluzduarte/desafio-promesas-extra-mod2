@@ -1,5 +1,4 @@
 # desafio-promesas-extra-mod2
-Desafío extra del módulo 2 de la carrera DWF de apx.school
 
 Este es un ejercicio extra para practicar los temas del módulo 2 de la carrera de Desarrollo Web Fullstack de apx.school
 
