@@ -1,0 +1,26 @@
+{
+  "name": "ejercicio-promesas",
+  "version": "1.0.0",
+  "description": "Este es un ejercicio extra para practicar los temas del módulo 2 de la carrera de Desarrollo Web Fullstack de apx.school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florluzduarte/desafio-promesas-extra-mod2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florluzduarte/desafio-promesas-extra-mod2/issues"
+  },
+  "homepage": "https://github.com/florluzduarte/desafio-promesas-extra-mod2#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.4",
+    "jsonfile": "^6.1.0",
+    "minimist": "^1.2.5",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  }
+}

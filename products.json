@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "heladera"
+    },
+
+    {
+        "id": 2,
+        "name": "cocina"
+    },
+
+    {
+        "id": 3,
+        "name": "licuadora"
+    },
+
+    {
+        "id": 4,
+        "name": "televisor"
+    }
+]
